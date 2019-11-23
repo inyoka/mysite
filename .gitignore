@@ -1,3 +1,12 @@
+# Site specific ignores
+
+inyoka/ # my pyenv file
+*/migrations/__pycache__/
+*/migrations/!__init__.py
+*/migrations/*
+media/*
+!media/*/logo-square*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
