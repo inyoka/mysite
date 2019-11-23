@@ -1,6 +1,6 @@
 # Site specific ignores
 
-inyoka/ # my pyenv file
+inyoka/ 
 */migrations/__pycache__/
 */migrations/!__init__.py
 */migrations/*
