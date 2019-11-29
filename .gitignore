@@ -1,11 +1,14 @@
 # Site specific ignores
 
-inyoka/ 
+inyoka 
 */migrations/__pycache__/
 */migrations/!__init__.py
 */migrations/*
 media/*
 !media/*/logo-square*
+.*.swp
+nohup.out
+tools
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -111,3 +114,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.vscode/settings.json
+*.swp
+*.swp
