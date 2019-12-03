@@ -9,7 +9,7 @@ media/*
 nohup.out
 tools
 home/static/* 
-
+inyoka/
 # Home Static holds Font Awesome Source
 # Byte-compiled / optimized / DLL files
 __pycache__/
