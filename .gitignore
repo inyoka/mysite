@@ -1,6 +1,5 @@
 # Site specific ignores
 
-inyoka 
 */migrations/__pycache__/
 */migrations/!__init__.py
 */migrations/*
@@ -9,7 +8,9 @@ media/*
 .*.swp
 nohup.out
 tools
+home/static/* 
 
+# Home Static holds Font Awesome Source
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
